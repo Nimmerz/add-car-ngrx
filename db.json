@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "name": "Audi",
+      "date": "04.05.12",
+      "model": "RX6",
+      "isSold": true
+    },
+    {
+      "name": "sssa",
+      "date": "25.06.18",
+      "model": "sasasasa",
+      "isSold": false,
+      "id": 3
+    },
+    {
+      "name": "ewewewe",
+      "date": "25.06.18",
+      "model": "ewew",
+      "isSold": false,
+      "id": 4
+    },
+    {
+      "name": "sasas",
+      "date": "26.06.18",
+      "model": "sasasa",
+      "isSold": false,
+      "id": 5
+    },
+    {
+      "name": "Kol",
+      "date": "26.06.18",
+      "model": "sassa",
+      "isSold": false,
+      "id": 6
+    }
+  ]
+}
